@@ -5,13 +5,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aman01k"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://aman01k.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://aman01k.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/aman01k?tab=repositories"><img src="https://img.shields.io/badge/Projects-Browse-2DD4BF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 </p>
 
 ## 👋 About me
 
-I'm a Computer Science undergrad and an intern at **Snabbit**. I build **AI agents, machine-learning systems and data products**, and I like projects where the evidence is part of the deliverable: evaluation scripts, ablation studies, confusion matrices and an honest section on what didn't work.
+I'm a **Data Analyst at Snabbit** and a Computer Science undergrad, and I was previously a **Machine Learning intern at DRDO**. I build **AI agents, machine-learning systems and data products**, and I like projects where the evidence is part of the deliverable: evaluation scripts, ablation studies, confusion matrices and an honest section on what didn't work.
 
 - 🤖 **Agents:** LLM agents that investigate production incidents and mentor developers inside their own repos
 - 🧠 **ML:** audio, text and vision classification, and reproducing research papers from scratch
@@ -106,5 +106,5 @@ I'm a Computer Science undergrad and an intern at **Snabbit**. I build **AI agen
 ---
 
 <p align="center">
-  <b>Working on something in AI agents, ML or data?</b> I'm always happy to talk. Reach me on <a href="https://www.linkedin.com/in/aman01kk">LinkedIn</a>.
+  <b>Working on something in AI agents, ML or data?</b> I'm always happy to talk. Reach me on <a href="https://www.linkedin.com/in/aman01k">LinkedIn</a>.
 </p>
