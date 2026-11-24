@@ -16,6 +16,7 @@ I'm a **Data Analyst at Snabbit** and a Computer Science undergrad, and I was pr
 - 🤖 **Agents:** LLM agents that investigate production incidents and mentor developers inside their own repos
 - 🧠 **ML:** audio, text and vision classification, and reproducing research papers from scratch
 - 📊 **Data:** SQL-first analytics, cohort and RFM analysis, experiment design
+- 🏗️ **Full-stack:** a booking app from database constraints to React UI
 - 🛠️ **Fundamentals:** a six-phase compiler that runs entirely in the browser
 
 ---
@@ -43,6 +44,12 @@ I'm a **Data Analyst at Snabbit** and a Computer Science undergrad, and I was pr
 | Project | What it does | Built with |
 |:--|:--|:--|
 | [**Foodlytics**](https://github.com/aman01k/foodlytics) | Growth analytics on about 100k real e-commerce orders: a PostgreSQL KPI layer, cohort and RFM analysis, and an A/B-test simulator showing a 10% discount would need a +263% conversion lift just to break even. | SQL · PostgreSQL · pandas · Streamlit |
+
+### 🏗️ Full-stack
+
+| Project | What it does | Built with |
+|:--|:--|:--|
+| [**Nestly**](https://github.com/aman01k/airbnb-clone) | A vacation-rental booking app built end to end: search by destination, dates and guests; book with a live price breakdown; cancel and review trips; and run listings from a host dashboard. A PostgreSQL exclusion constraint makes double bookings impossible, even when requests arrive at the same moment. Covered by 26 API tests. | React · TypeScript · Express · Prisma · PostgreSQL |
 
 ### 🛡️ Security & systems
 
@@ -91,6 +98,8 @@ I'm a **Data Analyst at Snabbit** and a Computer Science undergrad, and I was pr
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
