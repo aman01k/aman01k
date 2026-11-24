@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aman01kk"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/aman01k"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://aman01k.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/aman01k?tab=repositories"><img src="https://img.shields.io/badge/Projects-Browse-2DD4BF?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 </p>
