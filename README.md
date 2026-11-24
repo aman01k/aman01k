@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Aman Kumar: AI agents, machine learning and data products" src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark.svg">
+  <img alt="Aman Kumar: AI agents, machine learning and data products" src="assets/profile-banner-light.svg" width="100%">
 </picture>
 
 <p align="center">
