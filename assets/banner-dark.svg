@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Aman Kumar: AI agents, machine learning and data products">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf"/><stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.8" cy="0.5" r="0.42">
+      <stop offset="0" stop-color="#818cf8" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#818cf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.045"/>
+    </pattern>
+    <clipPath id="card"><rect width="1280" height="300" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+  <rect width="1280" height="300" fill="url(#bg)"/>
+  <rect width="1280" height="300" fill="url(#grid)"/>
+  <rect width="1280" height="300" fill="url(#glow)"/>
+  <text x="72" y="104" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" letter-spacing="5" fill="#2dd4bf">HELLO, I&#8217;M</text>
+  <text x="68" y="168" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="66" font-weight="800" fill="#f9fafb">Aman Kumar</text>
+  <rect x="72" y="190" width="132" height="5" rx="2.5" fill="url(#acc)"/>
+  <text x="72" y="234" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="25" font-weight="500" fill="#cbd5e1">AI agents &#183; Machine learning &#183; Data products</text>
+  <text x="72" y="268" font-family="'Segoe UI', Inter, -apple-system, Helvetica, Arial, sans-serif" font-size="17" fill="#94a3b8">CS undergrad &#183; Intern @ Snabbit &#183; Sonipat, India</text>
+  <line x1="860" y1="80" x2="980" y2="60" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="860" y1="80" x2="980" y2="125" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="860" y1="80" x2="980" y2="190" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="860" y1="80" x2="980" y2="255" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="860" y1="150" x2="980" y2="60" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="860" y1="150" x2="980" y2="125" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="860" y1="150" x2="980" y2="190" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="860" y1="150" x2="980" y2="255" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="860" y1="220" x2="980" y2="60" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="860" y1="220" x2="980" y2="125" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="860" y1="220" x2="980" y2="190" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="860" y1="220" x2="980" y2="255" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="980" y1="60" x2="1100" y2="105" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="980" y1="60" x2="1100" y2="195" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="980" y1="125" x2="1100" y2="105" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="980" y1="125" x2="1100" y2="195" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="980" y1="190" x2="1100" y2="105" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="980" y1="190" x2="1100" y2="195" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="980" y1="255" x2="1100" y2="105" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="980" y1="255" x2="1100" y2="195" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="1100" y1="105" x2="1205" y2="150" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <line x1="1100" y1="195" x2="1205" y2="150" stroke="url(#acc)" stroke-opacity="0.35" stroke-width="1.5"/>
+  <circle cx="860" cy="80" r="9" fill="#0b1220" stroke="url(#acc)" stroke-width="2.5"/><circle cx="860" cy="80" r="3.5" fill="#2dd4bf"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="0.00s" repeatCount="indefinite"/></circle>
+  <circle cx="860" cy="150" r="9" fill="#0b1220" stroke="url(#acc)" stroke-width="2.5"/><circle cx="860" cy="150" r="3.5" fill="#2dd4bf"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="0.35s" repeatCount="indefinite"/></circle>
+  <circle cx="860" cy="220" r="9" fill="#0b1220" stroke="url(#acc)" stroke-width="2.5"/><circle cx="860" cy="220" r="3.5" fill="#2dd4bf"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="0.70s" repeatCount="indefinite"/></circle>
+  <circle cx="980" cy="60" r="9" fill="#0b1220" stroke="url(#acc)" stroke-width="2.5"/><circle cx="980" cy="60" r="3.5" fill="#2dd4bf"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="1.05s" repeatCount="indefinite"/></circle>
+  <circle cx="980" cy="125" r="9" fill="#0b1220" stroke="url(#acc)" stroke-width="2.5"/><circle cx="980" cy="125" r="3.5" fill="#2dd4bf"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="1.40s" repeatCount="indefinite"/></circle>
+  <circle cx="980" cy="190" r="9" fill="#0b1220" stroke="url(#acc)" stroke-width="2.5"/><circle cx="980" cy="190" r="3.5" fill="#2dd4bf"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="1.75s" repeatCount="indefinite"/></circle>
+  <circle cx="980" cy="255" r="9" fill="#0b1220" stroke="url(#acc)" stroke-width="2.5"/><circle cx="980" cy="255" r="3.5" fill="#2dd4bf"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="2.10s" repeatCount="indefinite"/></circle>
+  <circle cx="1100" cy="105" r="9" fill="#0b1220" stroke="url(#acc)" stroke-width="2.5"/><circle cx="1100" cy="105" r="3.5" fill="#2dd4bf"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="2.45s" repeatCount="indefinite"/></circle>
+  <circle cx="1100" cy="195" r="9" fill="#0b1220" stroke="url(#acc)" stroke-width="2.5"/><circle cx="1100" cy="195" r="3.5" fill="#2dd4bf"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="2.80s" repeatCount="indefinite"/></circle>
+  <circle cx="1205" cy="150" r="9" fill="#0b1220" stroke="url(#acc)" stroke-width="2.5"/><circle cx="1205" cy="150" r="3.5" fill="#2dd4bf"><animate attributeName="opacity" values="0.25;1;0.25" dur="3s" begin="0.15s" repeatCount="indefinite"/></circle>
+  <circle r="4" fill="#2dd4bf"><animateMotion dur="3.6s" begin="0.0s" repeatCount="indefinite" path="M860 80 L980 125 L1100 105 L1205 150"/><animate attributeName="opacity" values="0;1;1;0" dur="3.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+  <circle r="4" fill="#818cf8"><animateMotion dur="3.6s" begin="1.2s" repeatCount="indefinite" path="M860 220 L980 190 L1100 195 L1205 150"/><animate attributeName="opacity" values="0;1;1;0" dur="3.6s" begin="1.2s" repeatCount="indefinite"/></circle>
+  <circle r="4" fill="#2dd4bf"><animateMotion dur="3.6s" begin="2.4s" repeatCount="indefinite" path="M860 150 L980 255 L1100 195 L1205 150"/><animate attributeName="opacity" values="0;1;1;0" dur="3.6s" begin="2.4s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>
